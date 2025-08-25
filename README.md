@@ -1,5 +1,5 @@
 
-# React Native POC's (Proof of COncepts) - By Fabiano Ramos
+# React Native POC's (Proof of Concepts) - By Fabiano Ramos
 
 <div style={'justify-content: space-between;'}>
   <img src=".github/1.png" alt="LuckyCookie" width="250"/>
@@ -13,9 +13,7 @@ Desenvolvido em [**React Native**](https://reactnative.dev) usando [`@react-nati
 | Branch               | Screenshot                                                |
 | ----------------- | ---------------------------------------------------------------- |
 | main       | <img src=".github/1.png" alt="LuckyCookie" width="125"/> |
-| scrollview       | <img src=".github/1.png" alt="LuckyCookie" width="125"/> |
-| a definir       | <img src=".github/1.png" alt="LuckyCookie" width="125"/> |
-| a definir       | <img src=".github/1.png" alt="LuckyCookie" width="125"/> |
+| scrollview       | <img src=".github/scrollview.gif" alt="LuckyCookie" width="125"/> |
 
 # Saiba mais
 
