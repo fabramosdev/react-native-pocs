@@ -13,7 +13,7 @@ Desenvolvido em [**React Native**](https://reactnative.dev) usando [`@react-nati
 | Branch            | Screenshot                                                       |
 | ----------------- | ---------------------------------------------------------------- |
 | main              | <img src=".github/1.png" alt="main branch" width="125"/>         |
-| scrollview        | <img src=".github/scrollview.png" alt="scroll" width="125"/>     |
+| scrollview        | <img src=".github/scrollview.gif" alt="scroll" width="125"/>     |
 
 # Saiba mais
 
