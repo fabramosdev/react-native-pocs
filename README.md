@@ -1,5 +1,5 @@
 
-# React Native POC's (Proof of COncepts) - By Fabiano Ramos
+# React Native POC's (Proof of Concepts) - By Fabiano Ramos
 
 <div style={'justify-content: space-between;'}>
   <img src=".github/1.png" alt="LuckyCookie" width="250"/>
