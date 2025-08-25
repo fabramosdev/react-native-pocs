@@ -10,12 +10,12 @@ Desenvolvido em [**React Native**](https://reactnative.dev) usando [`@react-nati
 
 ## Branches
 
-| Cor               | Hexadecimal                                                |
+| Branch               | Screenshot                                                |
 | ----------------- | ---------------------------------------------------------------- |
-| scrollview       | ![Logo](./github/1.png) |
-| a definir       | ![Logo](./github/1.png) |
-| a definir       | ![Logo](./github/1.png) |
-| a definir       | ![Logo](./github/1.png) |
+| main       | ![Logo]("./github/1.png") |
+| scrollview       | ![Logo]("./github/1.png") |
+| a definir       | ![Logo]("./github/1.png") |
+| a definir       | ![Logo]("./github/1.png") |
 
 # Saiba mais
 
