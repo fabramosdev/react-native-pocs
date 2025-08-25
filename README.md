@@ -12,8 +12,8 @@ Desenvolvido em [**React Native**](https://reactnative.dev) usando [`@react-nati
 
 | Branch               | Screenshot                                                |
 | ----------------- | ---------------------------------------------------------------- |
-| main       | <img src=".github/1.png" alt="LuckyCookie" width="125"/> |
-| scrollview       | <img src=".github/scrollview.gif" alt="LuckyCookie" width="125"/> |
+| main       | <img src=".github/1.png" alt="main" width="125"/> |
+| scrollview       | <img src=".github/scrollview.gif" alt="scrollview" width="125"/> |
 
 # Saiba mais
 
