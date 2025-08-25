@@ -12,10 +12,10 @@ Desenvolvido em [**React Native**](https://reactnative.dev) usando [`@react-nati
 
 | Branch               | Screenshot                                                |
 | ----------------- | ---------------------------------------------------------------- |
-| main       | ![Logo]("./github/1.png") |
-| scrollview       | ![Logo]("./github/1.png") |
-| a definir       | ![Logo]("./github/1.png") |
-| a definir       | ![Logo]("./github/1.png") |
+| main       | <img src=".github/1.png" alt="LuckyCookie" width="250"/> |
+| scrollview       | <img src=".github/1.png" alt="LuckyCookie" width="250"/> |
+| a definir       | <img src=".github/1.png" alt="LuckyCookie" width="250"/> |
+| a definir       | <img src=".github/1.png" alt="LuckyCookie" width="250"/> |
 
 # Saiba mais
 
