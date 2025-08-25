@@ -10,12 +10,10 @@ Desenvolvido em [**React Native**](https://reactnative.dev) usando [`@react-nati
 
 ## Branches
 
-| Branch               | Screenshot                                                |
+| Branch            | Screenshot                                                       |
 | ----------------- | ---------------------------------------------------------------- |
-| main       | <img src=".github/1.png" alt="LuckyCookie" width="125"/> |
-| scrollview       | <img src=".github/1.png" alt="LuckyCookie" width="125"/> |
-| a definir       | <img src=".github/1.png" alt="LuckyCookie" width="125"/> |
-| a definir       | <img src=".github/1.png" alt="LuckyCookie" width="125"/> |
+| main              | <img src=".github/1.png" alt="main branch" width="125"/>         |
+| scrollview        | <img src=".github/scrollview.png" alt="scroll" width="125"/>     |
 
 # Saiba mais
 
@@ -25,7 +23,7 @@ Mais sobre React Native:
 - [Iniciando](https://reactnative.dev/docs/environment-setup) - um **overview** do setup para React Native e como configurá-lo.
 - [Aprenda o básico](https://reactnative.dev/docs/getting-started) - Um **tour guiado** pelo React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - Leia as últimas da stack em nosso **Blog**.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - Open Source GitHub **repositorio** para o React Native.
+- [`@facebook/react-native`](https://github.com/facebook/react-native) - **Repositorio Open Source do GitHub** para o React Native.
 
 
 ## Autor
